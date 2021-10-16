@@ -25,7 +25,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Example Site Rendering
-Picture Needed
+![Getting Started](./assets/images/readme-screen-shot.JPG)
 
 
 ## Built With
